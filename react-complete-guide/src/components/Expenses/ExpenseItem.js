@@ -19,7 +19,7 @@ function ExpenseItem(props) {
       </div>
       <button onClick={onClickHandler}>click me</button>
     </Card>
-    </li>
+    </li> 
   );
 }
 export default ExpenseItem;
